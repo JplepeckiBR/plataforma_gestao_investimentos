@@ -1,0 +1,4 @@
+streamlit
+yfinance
+pandas
+# sqlite3 não precisa ser listado pois é parte da biblioteca padrão do Python
